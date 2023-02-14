@@ -2,7 +2,7 @@
 - [![@shivamsingh's Holopin board](https://holopin.me/shivamsingh)](https://holopin.io/@shivamsingh)
 <h1 align="center">Hi 👋, I'm Shivam Singh</h1>
 <h3 align="center">A passionate frontend developer|COMPETITIVE CODER from India</h3>
-<img align="right" alt="Coding" width="400" src="https://media.tenor.com/flflC6GFzO8AAAAC/sultan-alrefaei-programmer.gif">
+<img align="right" alt="Coding" width="400" src="coding.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shivam250702&label=Profile%20views&color=0e75b6&style=flat" alt="shivam250702" /> </p>
 
