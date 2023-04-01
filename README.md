@@ -32,7 +32,9 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shivam250702&show_icons=true&locale=en" alt="shivam250702" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shivam250702&" alt="shivam250702" /></p>
-
+<p>
+<div align="center"> <img src="https://raw.githubusercontent.com/muhiqsimui/muhiqsimui/output/github-contribution-grid-snake.svg" /></div>
+</p>
 <!---
 Shivam250702/Shivam250702 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
